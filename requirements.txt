@@ -1,7 +1,7 @@
 streamlit
-langchain
-langchain-community
-langchain-openai
-langchain-core
+langchain==0.1.5
+langchain-community==0.0.17
+langchain-openai==0.1.30
+langchain-core==0.0.8
 python-dotenv
 faiss-cpu
