@@ -2,6 +2,6 @@ streamlit
 langchain==0.1.5
 langchain-community==0.0.17
 langchain-openai==0.0.8
-langchain-core==0.1.30
+langchain-core==0.1.29
 python-dotenv
 faiss-cpu
